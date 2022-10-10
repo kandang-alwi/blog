@@ -13,7 +13,6 @@ toc: false
 ### New Dungeon: 
 
 - Dungeon 7 (/warp dg7) **[Jungle Dungeon]**
-
 ### New Mobs: 
 
 - Minions **[Lv. 1]**
@@ -22,7 +21,6 @@ toc: false
 - Minions **[Lv. 4]**
 - Minions **[Lv. 5]**
 - GraveKeeper **[BOSS]**
-- 
 ### New Material: 
 
 - Minions Core
@@ -60,32 +58,6 @@ toc: false
 ![boots](https://user-images.githubusercontent.com/77707953/194890468-13277cc2-4a60-4c4a-bfda-1352d1967389.png)
 
 
-Close
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-P
 
 #### Heading
 
