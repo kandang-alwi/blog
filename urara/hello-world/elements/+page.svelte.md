@@ -1,8 +1,20 @@
+# DUNGEON 7 UPDATE [VERSION  3.1.0]
+
+![dg7-1](https://user-images.githubusercontent.com/77707953/194874709-6ebbd793-6013-4ef8-aa08-bd9a75e7123b.png)
+
 ---
-title: Elements
-created: 2021-12-12
-tags: ['Urara', 'Elements']
----
+
+### New Dungeon: 
+
+- Dungeon 7 (/warp dg7) [Jungle Dungeon]
+
+### New Material: 
+
+- Minions Core
+- Minions Scrap
+- Zombie Soul
+- Heart of Zombie
+- Heart of Minions
 
 ## Headings
 
