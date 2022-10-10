@@ -1,3 +1,11 @@
+---
+title: DUNGEON 7 UPDATE [VERSION  3.1.0]
+summary: Kandang Alwi New Update
+created: 2022-10-8
+tags: ['Update']
+toc: false
+---
+
 # DUNGEON 7 UPDATE [VERSION  3.1.0]
 
 ![dg7-1](https://user-images.githubusercontent.com/77707953/194874709-6ebbd793-6013-4ef8-aa08-bd9a75e7123b.png)
