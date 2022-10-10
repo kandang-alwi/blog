@@ -1,6 +1,6 @@
 ---
 title: DUNGEON 7 UPDATE [VERSION  3.1.0]
-summary:  Happy Grinding! Yuk Buruan Beli Rank MVP++ Biar Bisa Ke Dungeon!, IP: kandangalwi.net
+summary:  Happy Grinding! Yuk Buruan Beli Rank MVP++ Biar Bisa Ke Dungeon!
 created: 2022-10-8
 tags: ['Update']
 toc: false
