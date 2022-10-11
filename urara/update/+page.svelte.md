@@ -1,5 +1,5 @@
 ---
-title: UPDATE [VERSION  3.1.0]
+title: Update Blog Info
 summary:  Update Blog Info
 created: 2022-10-8
 tags: ['Update']
