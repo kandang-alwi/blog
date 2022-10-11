@@ -9,8 +9,8 @@ export const site: SiteConfig = {
   description: 'Powered by Kandang Alwi',
   author: {
     name: 'Kandang Alwi',
-    avatar: '/assets/maskable@192.png',
-    status: '🌸',
+    avatar: '/assets/33d12e09eec263688a752c689cca4af3.png33d12e09eec263688a752c689cca4af3.png',
+    status: '😉',
     bio: 'Blog Account.'
   },
   themeColor: '#3D4451'
