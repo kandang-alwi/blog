@@ -9,7 +9,7 @@ export const favicon: Icon = {
 
 export const any: { [key: number]: Icon } = {
   180: {
-    src: site.protocol + site.domain + '/assets/any@180.png',
+    src: site.protocol + site.domain + '/assets/kalogocilik.png',
     sizes: '180x180',
     type: 'image/png'
   },
