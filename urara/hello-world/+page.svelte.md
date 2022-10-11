@@ -6,9 +6,7 @@ tags:
   - 'Main'
   - 'Rules'
 ---
-
 ---
-
 ```bash
 1. Dilarang menjual akun rank dengan uang asli 
 2. Dilarang Menaruh Banyak Head Di Base
