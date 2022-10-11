@@ -124,11 +124,11 @@ export const head: HeadConfig = {}
 export const header: HeaderConfig = {
   nav: [
     {
-      text: 'Get Started',
+      text: 'Rules',
       link: '/hello-world'
     },
     {
-      text: 'Elements',
+      text: 'Test Update',
       link: '/hello-world/elements'
     }
   ]
@@ -137,11 +137,11 @@ export const header: HeaderConfig = {
 export const footer: FooterConfig = {
   nav: [
     {
-      text: 'Feed',
-      link: '/atom.xml'
+      text: 'Discord',
+      link: 'https://discord.gg/XFVFYgYW'
     },
     {
-      text: 'Sitemap',
+      text: 'Store',
       link: '/sitemap.xml'
     }
   ]
