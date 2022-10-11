@@ -47,4 +47,4 @@ toc: false
 
 
 
-For full documentation, visit [urara-docs.netlify.app](https://urara-docs.netlify.app).
+For full documentation, visit discord
