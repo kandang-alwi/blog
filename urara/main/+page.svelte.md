@@ -5,6 +5,7 @@ updated: 2021-12-12
 tags:
   - 'Main'
   - 'Rules'
+toc: false
 ---
 
 ---
