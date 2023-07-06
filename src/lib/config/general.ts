@@ -61,7 +61,7 @@ export const header: HeaderConfig = {
     },
     {
       text: 'Discord',
-      link: 'discord.gg/kandangalwi'
+      link: 'https://discord.gg/kandangalwi'
     }
   ]
 }
