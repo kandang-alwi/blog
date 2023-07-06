@@ -69,12 +69,12 @@ export const header: HeaderConfig = {
 export const footer: FooterConfig = {
   nav: [
     {
-      text: 'Feed',
-      link: '/atom.xml'
+      text: 'Discord',
+      link: 'https://discord.kandangalwi.me'
     },
     {
-      text: 'Sitemap',
-      link: '/sitemap.xml'
+      text: 'Store',
+      link: 'https://kandangalwi.me'
     }
   ]
 }
