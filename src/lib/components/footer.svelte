@@ -33,9 +33,9 @@
         rel="noopener noreferrer external"
         target="_blank"
         class="tooltip tooltip-secondary hover:text-secondary"
-        data-tip="🌸 [δ] - Based on MDsveX & SvelteKit 🌸"
-        href="https://github.com/importantimport/urara">
-        Urara
+        data-tip="Made By Developers | Fork Of Urara"
+        href="https://discord.gg/kandangalwi">
+        Kandang Alwi
       </a>
       {#if footerConfig.html}
         <br />
