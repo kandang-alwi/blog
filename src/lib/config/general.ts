@@ -56,12 +56,12 @@ export const head: HeadConfig = {}
 export const header: HeaderConfig = {
   nav: [
     {
-      text: 'Get Started',
-      link: '/hello-world'
+      text: 'Store',
+      link: 'https://kandangalwi.me'
     },
     {
-      text: 'Elements',
-      link: '/hello-world/elements'
+      text: 'Discord',
+      link: 'discord.gg/kandangalwi'
     }
   ]
 }
