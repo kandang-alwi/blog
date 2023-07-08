@@ -7,3 +7,4 @@ toc: false
 ---
 
 # Update Mungkin Ada Di Place Selanjutnya
+Tunggu Saja
